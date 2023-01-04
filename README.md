@@ -1,1 +1,2 @@
-# FAQ-Accordion-Card
+# FAQ Accordion Card
+### Frontend Mentor Challenges
